@@ -1,4 +1,4 @@
-// credit for the main functionality for unliking non-broken pots goes to https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d
+// credit for the main functionality for unliking non-broken pots goes to Ian Thompson (https://gist.github.com/ianathompson) from https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d
 // Note: I am not a great JS dev, so if the script moves from a BROKEN liked post to an unbroken one, then the script might bug out or stop and need to be rerun
 // BROKEN LIKES are likes that appear under your "Likes" tab, but do not have a red heart. Not sure why they exist. Twitter is just bad like that. 
 // Please help me make it so my script doesn't break :<
